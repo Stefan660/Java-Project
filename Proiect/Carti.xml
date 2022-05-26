@@ -1,0 +1,22 @@
+<Biblioteca>
+    <carte>
+        <titlu>Amintiri din copilarie</titlu>
+        <autor>Ion Creanga</autor>
+        <nr_pag>150</nr_pag>
+    </carte>
+    <carte>
+        <titlu>Fram ursul polar</titlu>
+        <autor>Cezar Petrescu</autor>
+        <nr_pag>200</nr_pag>
+    </carte>
+    <carte>
+        <titlu>Marile sperante</titlu>
+        <autor>Charles Dickens</autor>
+        <nr_pag>300</nr_pag>
+    </carte>
+    <carte>
+        <titlu>Punguta cu doi bani</titlu>
+        <autor>Ion</autor>
+        <nr_pag>50</nr_pag>
+    </carte>
+</Biblioteca>
